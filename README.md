@@ -8,4 +8,3 @@ python motion_detector.py [-h] [-v VIDEO_PATH] [-m MODE] [-th THRESHOLD]
 
 Expreiments in kidney_seg.ipynb
 
-Further details are provided in shell_assignment.pdf
